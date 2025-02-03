@@ -1,39 +1,48 @@
-<h1 align="left">Hey 👋 What's up?</h1>
+## 🚀 Shamsher Khan | Full-Stack Developer  
 
-###
+![Profile Views](https://komarev.com/ghpvc/?username=Shamsher-Khan&color=blue)
 
-<p align="left">My name is ... and I'm a ..., from ....</p>
+### 👨‍💻 About Me  
+- 🎓 **BE in Computer Science** | Passionate about Web Development  
+- 💡 Always exploring new technologies & improving my skills  
+- 🔥 Interested in **Frontend & Backend Development**  
 
-###
+---  
 
-<h2 align="left">About me</h2>
+### 🛠 Tech Stack  
 
-###
+#### **Frontend**  
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white)  
+![Redux Toolkit](https://img.shields.io/badge/Redux_Toolkit-764ABC?style=for-the-badge&logo=redux&logoColor=white)  
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)  
 
-<p align="left">✨ Creating bugs since ...<br>📚 I'm currently learning ...<br>🎯 Goals: ...<br>🎲 Fun fact: ...</p>
+#### **Backend**  
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)  
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)  
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)  
 
-###
+#### **Other Tools & Technologies**  
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
+![EJS](https://img.shields.io/badge/EJS-8A2BE2?style=for-the-badge&logoColor=white)  
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
 
-<h2 align="left">I code with</h2>
+---  
 
-###
+### 🔥 Projects  
+- 🛵 **Food Delivery App** - *(React, Redux Toolkit, Tailwind CSS)*  
+- 🏠 **Rental Room Finder** - *(EJS, Node.js, MongoDB, Express.js)*  
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="40" alt="storybook logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" height="40" alt="nestjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="40" alt="jest logo"  />
-</div>
+---  
 
-###
+### 📫 Connect With Me  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]([your-linkedin-url](https://www.linkedin.com/in/shamsher-khan-883107301 ))  
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=github&logoColor=white)]([your-portfolio-url](https://shamsherkhan7549.github.io/Portfolio/ ))  
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shamsher.khan7515@gmail.com)  
+
+---  
+
+### 📊 GitHub Stats  
+![Shamsher's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Shamsher-Khan&show_icons=true&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shamsher-Khan&layout=compact&theme=radical)  
+
+
