@@ -42,7 +42,7 @@
 ---  
 
 ### 📊 GitHub Stats  
-![Shamsher's GitHub Stats](https://github-readme-stats.vercel.app/api?username=https://github.com/Shamsherkhan7549&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=[Shamsher-Khan](https://github.com/Shamsherkhan7549)&layout=compact&theme=radical)  
+![Shamsher's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Shamsherkhan7549&show_icons=true&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=https://github.com/Shamsherkhan7549&layout=compact&theme=radical)  
 
 
