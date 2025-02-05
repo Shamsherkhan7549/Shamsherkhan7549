@@ -43,6 +43,6 @@
 
 ### 📊 GitHub Stats  
 ![Shamsher's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Shamsherkhan7549&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=https://github.com/Shamsherkhan7549&layout=compact&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shamsherkhan7549&layout=compact&theme=radical)  
 
 
